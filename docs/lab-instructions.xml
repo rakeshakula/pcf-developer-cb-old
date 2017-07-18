@@ -7,9 +7,6 @@
 <!DOCTYPE book PUBLIC '-//OASIS//DTD DocBook XML V4.4//EN'
      'http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd'
 [
-<!ENTITY lab_instructor_notes                     SYSTEM "instructor-notes.xml">
-<!ENTITY lab_aws_mongo_terraform                  SYSTEM "aws-mongo-terraform.xml">
-<!ENTITY lab_aws_jenkins_ami                      SYSTEM "aws-jenkins-ami.xml">
 <!ENTITY lab_requirements                         SYSTEM "requirements.xml">
 <!ENTITY lab_approach                             SYSTEM "approach.xml">
 <!ENTITY lab_push_to_the_cloud                    SYSTEM "push-to-the-cloud.xml">
