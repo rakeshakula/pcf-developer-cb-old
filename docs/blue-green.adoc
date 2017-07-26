@@ -173,7 +173,7 @@ For example (your domain and subdomain will be different):
 +
 [source.terminal]
 ----
-cf unmap-route {{domain_name}} --hostname {{articulate_hostname}}
+cf unmap-route articulate-v2 {{domain_name}} --hostname {{articulate_hostname}}
 ----
 
 **Congratulations!** You performed a blue-green deployment.
